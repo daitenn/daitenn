@@ -23,5 +23,5 @@
 <img src="https://skillicons.dev/icons?i=terraform,graphql,mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=page-o&title=Joined2020,Commit,MultiLanguage,Repositories" height="151px" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=daitenn&title=Joined2020,Commit,MultiLanguage,Repositories" height="151px" />
 </a>
